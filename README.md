@@ -7,11 +7,10 @@
 # MY INTEREST
 >Interested in Developments<br>
 >Enthusiast for learning data related technologies and tools.
-<br>
 # Skills till date
-C programming<br>
-Java<br>
-HTML<br>
-CSS<br>
-PHP<br>
-MySQL
+>C programming<br>
+>Java<br>
+>HTML<br>
+>CSS<br>
+>PHP<br>
+>MySQL
