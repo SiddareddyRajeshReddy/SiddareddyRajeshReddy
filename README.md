@@ -2,7 +2,7 @@
 >🧔‍♂️Siddareddy Rajesh Reddy<br>
 >🏬Department of Computer Science and Engineering<br>
 >🏫National Institute of Technology, Sikkim
-# MY INTEREST
+# MY INTERESTS
 >Interested in Developments<br>
 >Enthusiast for learning data related technologies and tools.
 # Skills till date
