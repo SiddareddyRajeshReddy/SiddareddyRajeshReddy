@@ -1,6 +1,6 @@
 # ME
->🧔‍♂️Siddareddy Rajesh Reddy
->🏬Department of Computer Science and Engineering
+>🧔‍♂️Siddareddy Rajesh Reddy<br>
+>🏬Department of Computer Science and Engineering<br>
 >🏫National Institute of Technology, Sikkim
 # MY INTEREST
 >Interested in Developments<br>
