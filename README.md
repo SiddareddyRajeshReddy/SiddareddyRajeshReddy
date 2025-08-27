@@ -52,22 +52,6 @@
 
 </div>
 
-## 🏆 Featured Projects
-
-### 🚗 Dual-Role Cab Booking Platform
-- **Tech Stack:** MERN Stack, JWT Authentication, Real-time Features
-- **Features:** Driver-Customer role switching, Advanced scheduling, Secure authentication
-
-### 🚦 Traffic Violation Management System
-- **Tech Stack:** MERN Stack, PDF Generation, Email Integration
-- **Features:** Automated fine generation, Email notifications, Real-time processing
-
-### ☁️ Cloud-Based Applications
-- **Tech Stack:** AWS (Lambda, EC2, S3, DynamoDB), Serverless Architecture
-- **Features:** Auto-scaling, Cost-effective deployment, Modern cloud solutions
-
-## 📫 Let's Connect!
-
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/s-rajesh-reddy)
