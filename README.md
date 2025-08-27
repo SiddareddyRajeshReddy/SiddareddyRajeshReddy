@@ -1,11 +1,5 @@
 # 👋 Hi, I'm Siddareddy Rajesh Reddy
 
-<div align="center">
-  
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2E9EFF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;MERN+Stack+Enthusiast;Cloud+Computing+Explorer;Always+Learning+New+Tech)
-
-</div>
-
 ## 🎓 About Me
 > 🧔‍♂️ **Siddareddy Rajesh Reddy**<br>
 > 🏬 **Department of Computer Science and Engineering**<br>
@@ -14,10 +8,8 @@
 
 ## 🚀 My Interests
 > 💻 **Full Stack Web Development**<br>
-> ☁️ **Cloud Computing & AWS Technologies**<br>
 > 📊 **Data Science & Analytics**<br>
 > 🤖 **Machine Learning Enthusiast**<br>
-> 🔧 **Building Real-world Applications**
 
 ## 🛠️ Tech Stack & Skills
 
@@ -42,15 +34,10 @@
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
 
-### Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
 ### Tools & Others
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ## 📊 GitHub Stats
@@ -93,7 +80,7 @@
 
 <div align="center">
 
-**"Building the future, one commit at a time! 🚀"**
+**"Only place I love to commit 😃"**
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=SiddareddyRajeshReddy&color=blue&style=for-the-badge)
 
