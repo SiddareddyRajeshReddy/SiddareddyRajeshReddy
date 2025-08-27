@@ -8,7 +8,14 @@
 # Skills till date
 >C programming<br>
 >Java<br>
->HTML<br>
+>HTML5<br>
 >CSS<br>
 >PHP<br>
->MySQL
+>MySQL<br>
+>JavaScript<br>
+>Tailwind CSS<br>
+>MongoDB<br>
+>ReactJS<br>
+>NodeJS<br>
+>ExpressJS<br>
+>Mongoose<br>
