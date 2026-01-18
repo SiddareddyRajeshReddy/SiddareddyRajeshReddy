@@ -1,11 +1,14 @@
-# 👋 Hi, I'm Siddareddy Rajesh Reddy
+# Hi, I'm Siddareddy Rajesh Reddy
 
-## 🎓 About Me
-> 🧔‍♂️ **Siddareddy Rajesh Reddy**<br>
-> 🏬 **Department of Computer Science and Engineering**<br>
-> 🏫 **National Institute of Technology, Sikkim**<br>
-> 🎯 **CGPA: 8.88/10.0**
-
+## About Me
+```json
+{
+>  **Siddareddy Rajesh Reddy**<br>
+>  **Department of Computer Science and Engineering**<br>
+>  **National Institute of Technology, Sikkim**<br>
+>  **CGPA: 8.88/10.0**
+}
+```
 ## 🚀 My Interests
 > 💻 **Full Stack Web Development**<br>
 > 📊 **Data Science & Analytics**<br>
