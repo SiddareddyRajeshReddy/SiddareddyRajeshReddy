@@ -1,20 +1,18 @@
 # Hi, I'm Siddareddy Rajesh Reddy
 
 ## About Me
-```json
-{
+
 >  **Siddareddy Rajesh Reddy**<br>
 >  **Department of Computer Science and Engineering**<br>
 >  **National Institute of Technology, Sikkim**<br>
 >  **CGPA: 8.88/10.0**
-}
-```
-## 🚀 My Interests
-> 💻 **Full Stack Web Development**<br>
-> 📊 **Data Science & Analytics**<br>
-> 🤖 **Machine Learning Enthusiast**<br>
 
-## 🛠️ Tech Stack & Skills
+## My Interests
+> **Full Stack Web Development**<br>
+> **Data Science & Analytics**<br>
+> **Machine Learning Enthusiast**<br>
+
+## Tech Stack & Skills
 
 ### Programming Languages
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -43,7 +41,7 @@
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
   
