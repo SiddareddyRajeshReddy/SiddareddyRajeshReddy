@@ -61,7 +61,18 @@ I am a Software Engineering student focused on Full-Stack Development, Machine L
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SiddareddyRajeshReddy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+---
+
+## GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SiddareddyRajeshReddy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SiddareddyRajeshReddy&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+---
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SiddareddyRajeshReddy&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
