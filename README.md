@@ -45,15 +45,18 @@
 ## 🏆 Coding Stats & Progress
 
 <div align="center">
+  
 <img src="https://leetcode-stats-six.vercel.app/api?username=Siddareddy_Rajesh_Reddy&theme=dark" alt="LeetCode Stats" />
+  
 <img src="https://leetcard.jacoblin.cool/Siddareddy_Rajesh_Reddy?theme=dark&font=Recursive" alt="LeetCode Heatmap" />
   
 </div>
 <div align="center">
 
-![LeetCode Contest Rating](https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=LeetCode%20Rating&query=ranking.rating&url=https%3A%2F%2Fleetcode-stats-six.vercel.app%2Fapi%3Fusername%3DSiddareddyRajeshReddy&color=FFA116&logo=leetcode)
+![LeetCode Contest Rating](https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=LeetCode%20Rating&query=ranking.rating&url=https%3A%2F%2Fleetcode-stats-six.vercel.app%2Fapi%3Fusername%3DSiddareddy_Rajesh_Reddy&color=FFA116&logo=leetcode)
 
 </div>
+
 ## GitHub Stats
 
 <div align="center">
