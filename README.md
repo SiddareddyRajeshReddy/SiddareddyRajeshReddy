@@ -5,12 +5,11 @@
 >  **Siddareddy Rajesh Reddy**<br>
 >  **Department of Computer Science and Engineering**<br>
 >  **National Institute of Technology, Sikkim**<br>
->  **CGPA: 8.88/10.0**
+>  **CGPA: 9.01/10.0**
 
 ## My Interests
 > **Full Stack Web Development**<br>
-> **Data Science & Analytics**<br>
-> **Machine Learning Enthusiast**<br>
+> **Machine Learning**<br>
 
 ## Tech Stack & Skills
 
@@ -41,6 +40,20 @@
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
+## LeetCode Stats
+
+## 🏆 Coding Stats & Progress
+
+<div align="center">
+<img src="https://leetcode-stats-six.vercel.app/api?username=SiddareddyRajeshReddy&theme=dark" alt="LeetCode Stats" />
+<img src="https://leetcard.jacoblin.cool/SiddareddyRajeshReddy?theme=dark&font=Recursive" alt="LeetCode Heatmap" />
+  
+</div>
+<div align="center">
+
+![LeetCode Contest Rating](https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=LeetCode%20Rating&query=ranking.rating&url=https%3A%2F%2Fleetcode-stats-six.vercel.app%2Fapi%3Fusername%3DSiddareddyRajeshReddy&color=FFA116&logo=leetcode)
+
+</div>
 ## GitHub Stats
 
 <div align="center">
