@@ -41,7 +41,7 @@ Software Engineering student focused on **Full-Stack Development**, **Machine Le
 
 ## Competitive Programming
 
-![LeetCode Rating](https://img.shields.io/badge/Contest%20Rating-1531-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
+![LeetCode Rating](https://img.shields.io/badge/Contest%20Rating-1574-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/Siddareddy_Rajesh_Reddy?theme=dark&font=Baloo+2&ext=heatmap" alt="LeetCode Stats" width="500"/>
 </p>
